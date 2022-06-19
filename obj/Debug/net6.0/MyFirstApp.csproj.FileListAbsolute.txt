@@ -1,0 +1,17 @@
+D:\git\MyFirstApp\bin\Debug\net6.0\MyFirstApp.exe
+D:\git\MyFirstApp\bin\Debug\net6.0\MyFirstApp.deps.json
+D:\git\MyFirstApp\bin\Debug\net6.0\MyFirstApp.runtimeconfig.json
+D:\git\MyFirstApp\bin\Debug\net6.0\MyFirstApp.dll
+D:\git\MyFirstApp\bin\Debug\net6.0\ref\MyFirstApp.dll
+D:\git\MyFirstApp\bin\Debug\net6.0\MyFirstApp.pdb
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.AssemblyReference.cache
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfo.cs
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.dll
+D:\git\MyFirstApp\obj\Debug\net6.0\ref\MyFirstApp.dll
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.pdb
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.genruntimeconfig.cache
+D:\git\MyFirstApp\bin\Debug\net6.0\LINQtoCSV.dll
+D:\git\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CopyComplete
