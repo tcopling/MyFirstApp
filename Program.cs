@@ -10,3 +10,10 @@ foreach (var contact in contacts)
 {
     Console.WriteLine(contact);
 }
+
+DoSomething();
+
+
+static void DoSomething() =>
+    Console.WriteLine("Created this method...");
+
